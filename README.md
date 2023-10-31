@@ -1,4 +1,4 @@
-# Hongs-Cafe
+# Hong's Cafe
 객체지향 프로그래밍 II - MySNS 프로젝트
 
 # 추가된 기능 (교재 이외)
